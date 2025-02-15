@@ -1,2 +1,8 @@
-# employee-attrition-prediction
-A machine learning project to predict employee attrition using classification models.
+📂 employee-attrition-prediction  
+│-- 📂 data/                # Raw and processed datasets  
+│-- 📂 notebooks/           # Jupyter Notebooks for EDA & modeling  
+│-- 📂 src/                 # Python scripts (feature engineering, model training)  
+│-- 📂 models/              # Saved trained models  
+│-- 📜 README.md            # Project overview  
+│-- 📜 requirements.txt     # List of dependencies  
+
