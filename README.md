@@ -57,7 +57,10 @@ The model successfully identifies employees who are likely to leave with high ac
 ## 🚀 How to Run
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/employee-attrition.git
+   git clone https://github.com/balinenianuhya/employee-attrition.git
    cd employee-attrition
 
+## 📬 Contact
+If you have any questions, feel free to reach out!
+🌐 GitHub: balinenianuhya
 
